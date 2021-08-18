@@ -1,1 +1,1 @@
-# Spinning CSS Animation# spinning-css-animation# spinning-css-animation
+# Spinning CSS Animation
